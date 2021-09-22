@@ -1,4 +1,4 @@
-FROM maven:3-jdk-7-alpine
+FROM maven:3-jdk-8-alpine
 MAINTAINER Cecile Tonglet <cecile.tonglet@tenforce.com>
 
 ENV SPRING_PROFILES_ACTIVE test
